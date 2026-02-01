@@ -1,3 +1,5 @@
+bast config (GoLang) to VsCode
+
 https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster
 ---
 https://github.com/Loretta1982/xenia
