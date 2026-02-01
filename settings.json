@@ -1,0 +1,32 @@
+{
+  "editor.fontFamily": "'Xenia', 'JetBrains Mono', 'Fira Code', Consolas, monospace",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.6,
+  "editor.fontWeight": "400",
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "'Xenia', monospace",
+  "terminal.integrated.fontSize": 13,
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 2,
+
+  // ⭐ ТИП АНИМАЦИИ МИГАНИЯ
+  // "blink"  — классическое мигание
+  // "smooth" — плавное затухание ✨ (рекомендую!)
+  // "phase"  — пульсация яркости
+  // "expand" — расширение/сужение
+  // "solid"  — без мигания
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+
+  "editor.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "workbench.colorTheme": "Alabaster Dark",
+  "files.autoSave": "afterDelay",
+  "explorer.confirmDragAndDrop": false,
+  "editor.dropIntoEditor.preferences": [
+    
+  ]
+}
+
+// Alabaster Variant Theme
